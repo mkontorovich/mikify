@@ -1,10 +1,10 @@
 :root {
-  --color-primary: #2584ff;
-  --color-secondary: #00d9ff;
-  --color-accent: #ff3400;
-  --color-headings: #1b0760;
-  --color-body: #918ca4;
-  --color-body-darker: #5c5577;
+  --color-primary: #457b9d;
+  --color-secondary: #a8dadc;
+  --color-accent: #e63946;
+  --color-headings: #1d3557;
+  --color-body: #759cd1;
+  --color-body-darker: #58749d;
   --color-border: #ccc;
   --border-radius: 30px;
 }
@@ -231,7 +231,7 @@ a {
 }
 
 .btn--primary:hover {
-  background: #3a8ffd;
+  background: #457b9d;
 }
 
 .btn--secondary {
@@ -240,7 +240,7 @@ a {
 }
 
 .btn--secondary:hover {
-  background: #05cdf0;
+  background: #93bfc1;
 }
 
 .btn--accent {
@@ -249,7 +249,7 @@ a {
 }
 
 .btn--accent:hover {
-  background: #ec3000;
+  background: #ca313e;
 }
 
 .btn--outline {
@@ -339,11 +339,11 @@ a {
 }
 
 .card--primary .badge--primary {
-  background: #126de4;
+  background: #1d3557;
 }
 
 .card--secondary .badge--secondary {
-  background: #02cdf1;
+  background: #457b9d;
 }
 
 /* Plans */
@@ -628,7 +628,7 @@ a {
 }
 
 .block--dark {
-  background: #000;
+  background: #1d3557;
   color: #7b858b;
 }
 
@@ -655,7 +655,7 @@ a {
 
 /* Navigation Bar */
 .nav {
-  background: #000;
+  background: #1d3557;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
